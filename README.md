@@ -1,6 +1,6 @@
-![Masterhead](https://www.timefortheweb.com/blog/wp-content/uploads/2017/10/timefortheweb-Blog-Image.gif)
+![Masterhead](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)
 <h1 size="78" align="center">🙏 नमस्कार 🙏</h1>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center"> I'm Sugam Shaw, an Undergraduate Student of Computer Science.</h3>
 <h4 align="center">I am from C.V Raman Global University</h4>
 # 💫 About Me:
