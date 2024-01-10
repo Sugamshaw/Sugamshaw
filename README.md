@@ -1,4 +1,4 @@
-![Profile Image](https://www.bing.com/images/search?view=detailV2&ccid=Xl10jSvF&id=EA77CCD7796B036A118C3E8B0806E1EF30E9556F&thid=OIP.Xl10jSvFMJGsAE31VjpN3AHaFj&mediaurl=https%3a%2f%2fi.ytimg.com%2fvi%2f5DS4bLYEJJg%2fhqdefault.jpg&exph=360&expw=480&q=peacefull+coder&simid=608008322798191167&FORM=IRPRST&ck=9045052A1AB7CC36617F56390DFB95A9&selectedIndex=40&itb=0&ajaxhist=0&ajaxserp=0)
+![Masterhead](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)
 <h1 size="78" align="center">🙏 नमस्कार 🙏</h1>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center"> I'm Sugam Shaw, an Undergraduate Student of Computer Science.</h3>
