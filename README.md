@@ -1,7 +1,10 @@
 ![Masterhead](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
 <h1 size="78" align="center">🙏 नमस्कार 🙏</h1>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="center"> I'm Sugam Shaw, an Undergraduate Student of Computer Science.</h3>
+<h2 align="center">
+<img src="https://github.com/Sugamshaw/Sugamshaw/blob/main/Assets/names.svg" />
+</h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h4 align="center">I am from C.V Raman Global University</h4>
 # 💫 About Me:
 🔭 I’m currently working on Application<br>👯 I’m looking to collaborate on a project<br>🤝 I’m looking for help with project<br>🌱 I’m currently learning python<br>💬 Ask me about anything<br>⚡ Fun fact 2+'2' = 22
